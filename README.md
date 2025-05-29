@@ -26,17 +26,15 @@ The <code>bitespeed</code> table in the AWS RDS MySQL database is used to store 
 <hr>
 <h6>Input</h6>
 ```
-Email: 1@gmail.com
-PhoneNumber:123456
+Email: 10@gmail.com
+PhoneNumber:1234567890
 ```
 
 <h6>Output</h6>
 ```
-[{"id":4,"phoneNumber":"123456","email":"1@gmail.com","linkedId":null,"linkPrecedence":"primary","createdAt":"7/24/2023, 9:49:01 PM","updatedAt":"7/24/2023, 9:49:01 PM","deletedAt":null}]
+[{"id":5,"phoneNumber":"1234567890","email":"10@gmail.com","linkedId":null,"linkPrecedence":"primary","createdAt":"5/29/2025, 1:37:01 PM","updatedAt":"5/29/2025, 1:37:01 PM","deletedAt":null}]
 ```
 <hr>
-<p>Please find below the task link</p>
-<a href="https://bitespeed-6pje.onrender.com/">Task Link</a>
 
 <h3> Challenges Faced</h3>
 <p>My goal for attempting this task was to learn more about integrating MySql with Node, as I had prior experience with Node and MongoDB. Despite facing challenges along the way, as a self-learner, this project has been an invaluable learning experience. It has allowed me to expand my skill set, gain exposure to relational databases and AWS services, and develop a problem-solving mindset. I am excited to continue building upon this knowledge and applying it to future projects and opportunities.</p>
@@ -48,6 +46,3 @@ PhoneNumber:123456
 <li>AWS RDS Configuration: Integrating AWS RDS (Amazon Relational Database Service) with my Node.js application proved to be a significant challenge. I encountered several unsuccessful connection errors while trying to set up and configure the AWS RDS instance.</li>
 <li> AWS EB Deployment: Connection Error and many other issues while trying to deploy the task through AWS.</li> 
 </ul>
-
-<h2>Thank You & Please find my resume below</h2>
-<a href="https://drive.google.com/file/d/1uRZmAvieloIxX7XSpalirAaElPwWkDWc/view?usp=drive_link"><i>Resume</i></a>
